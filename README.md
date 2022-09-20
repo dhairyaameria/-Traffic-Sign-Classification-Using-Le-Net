@@ -74,6 +74,7 @@ Layer 5: Fully Connected layer with Input = 84 and Output = 43
 
 Our model achieved accuracy of 91% on test dataset.
 
+The following graphs show the relationship between loss and accuracy of training and validation dataset.
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/71331819/191173166-91d445ce-75ff-4969-901c-3eb8f65c96ff.png">
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/71331819/191173204-0ae09531-786f-47c0-8278-76c8a116ab55.png">
 
