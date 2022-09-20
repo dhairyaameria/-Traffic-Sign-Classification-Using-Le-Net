@@ -71,8 +71,11 @@ Layer 5: Fully Connected layer with Input = 84 and Output = 43
 
 ## Model Evaluation
 ***
+* Trained the model for 50 epochs.
+* Loss function: sparse_categorical_crossentropy
+* Batch size: 500
 
-Our model achieved accuracy of 91% on test dataset.
+Test Accuracy : 0.8572
 
 The following graphs show the relationship between loss and accuracy of training and validation dataset.
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/71331819/191173166-91d445ce-75ff-4969-901c-3eb8f65c96ff.png">
